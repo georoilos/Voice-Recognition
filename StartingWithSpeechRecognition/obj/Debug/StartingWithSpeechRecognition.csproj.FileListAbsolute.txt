@@ -1,0 +1,16 @@
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\Users\Thomas\Documents\Visual Studio 2013\Projects\SpeechRecognition-Article\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\PROGRAMMING\PROJECTS\Voice Recon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+C:\PROGRAMMING\PROJECTS\Voice Recon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
+C:\PROGRAMMING\PROJECTS\Voice Recon\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+C:\PROGRAMMING\PROJECTS\Voice Recon\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+C:\PROGRAMMING\PROJECTS\Voice Recon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.exe
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\bin\Debug\StartingWithSpeechRecognition.pdb
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csprojResolveAssemblyReference.cache
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.exe
+F:\PROGRAMMING\_Visual C# Examples\19_VoiceRecon\StartingWithSpeechRecognition\obj\Debug\StartingWithSpeechRecognition.pdb
